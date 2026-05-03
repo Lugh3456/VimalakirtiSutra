@@ -1,0 +1,30 @@
+# Roadmap — Vimalakirti Sutra
+
+- [x] Build index.html with 14 chapter cards
+- [x] Build section1.html — 佛国品
+- [x] Build section2.html — 方便品
+- [x] Build section3.html — 弟子品
+- [x] Build section4.html — 菩萨品
+- [x] Build section5.html — 文殊师利问疾品
+- [x] Build section6.html — 不思议品
+- [x] Build section7.html — 观众生品
+- [x] Build section8.html — 佛道品
+- [x] Build section9.html — 入不二法门品
+- [x] Build section10.html — 香积佛品
+- [x] Build section11.html — 菩萨行品
+- [x] Build section12.html — 见阿閦佛品
+- [x] Build section13.html — 法供养品
+- [x] Build section14.html — 嘱累品
+- [x] Create CSS (red/saffron design tokens, copied from DiamondSutra)
+- [x] Add collapsible bilingual layout (Chinese default, expandable English details)
+- [x] Short concept-focused Chinese explanations
+- [x] Bilingual summary with expand/collapse per chapter
+- [x] Speech synthesis (🔊 聆听经文) per chapter
+- [x] Project docs (readme, architecture, ai-context, roadmap, audit-config, reference.py)
+- [x] Add annotated-text audit system (audit-config.json + reference.py in docs/)
+- [x] Full annotation coverage pass — all 14 sections pass content audit (0 issues)
+- [ ] Create GitHub repository: VimalakirtiSutra
+- [ ] Deploy to GitHub Pages — https://lugh3456.github.io/VimalakirtiSutra/
+- [ ] Verify on mobile (iOS Safari, Android Chrome)
+- [ ] Activate card on DharmaGate portal hub
+- [ ] Deploy updated DharmaGate portal

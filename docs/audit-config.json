@@ -1,0 +1,30 @@
+{
+  "site_name": "Vimalakirti Sutra",
+  "language": "zh",
+
+  "pages": {
+    "pattern": "section{n}.html",
+    "count": 14,
+    "label": "Chapter",
+    "check_title_h1": false
+  },
+
+  "content": {
+    "source_text_id": "chineseText",
+    "explanation_section_class": "line-explanation",
+    "explanation_card_class": "explanation-card",
+    "card_line_selector": "p.line",
+    "line_split_punctuation": "。",
+    "reference_file": "reference.py",
+    "reference_variable": "VS",
+    "check_card_coverage": false
+  },
+
+  "structure": {
+    "required_sections": ["full-text", "line-explanation", "summary"],
+    "required_elements": ["portal-bar", "site-footer", "skip-link", "read-btn"],
+    "required_scripts": ["speechSynthesis"],
+    "required_links": ["style.css", "fonts.googleapis.com", "index.html"],
+    "html_lang": "zh"
+  }
+}
